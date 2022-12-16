@@ -1,0 +1,9 @@
+[
+    { "id": 1, "nombre": "Pedigree adulto carne, pollo y cereales X 15kg", "categorias": "alimento seco", "precio": 5834, "imgUrl":"./img/pedigre_perro_15kg.webp" },
+    { "id": 2, "nombre": "Pouch pedigree adulto carne en salsa", "categorias": "alimento humedo", "precio": 160, "imgUrl": "./img/pouch_perro.webp"},
+    { "id": 3, "nombre": "Cat chow adulto carne y pollo X 15kg", "categorias":"alimento seco", "precio": 9248, "imgUrl": "./img/catchow_15kg.png"},
+    { "id": 4, "nombre": "Pouch whiskas pollo en salsa", "categorias":"alimento humedo", "precio": 5800, "imgUrl": "./img/pouch_gato.webp"},
+    { "id": 5, "nombre": "Raton interactivo gigwi",  "categorias": "juguetes", "precio": 6300, "imgUrl": "./img/raton_interactivo.jpg"},
+    { "id": 6, "nombre": "Rascador para gatos con rueda", "categorias": "rascadores", "precio": 5689, "imgUrl": "./img/rascador_gatos.jpg"},
+    { "id": 7, "nombre": "Peluche koala c/sonido gigwi",  "categorias": "juguetes", "precio": 4221, "imgUrl": "./img/peluche_joala.jpg"},
+    { "id": 8, "nombre": "Pelota rugby flotante", "categorias": "juguetes", "precio": 4064, "imgUrl": "./img/pelota_rugby.jpg"}]
